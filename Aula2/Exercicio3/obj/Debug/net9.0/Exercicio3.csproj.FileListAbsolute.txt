@@ -12,3 +12,4 @@ C:\Users\Alunos\Downloads\LPR2026\Aula2\Exercicio3\obj\Debug\net9.0\refint\Exerc
 C:\Users\Alunos\Downloads\LPR2026\Aula2\Exercicio3\obj\Debug\net9.0\Exercicio3.pdb
 C:\Users\Alunos\Downloads\LPR2026\Aula2\Exercicio3\obj\Debug\net9.0\Exercicio3.genruntimeconfig.cache
 C:\Users\Alunos\Downloads\LPR2026\Aula2\Exercicio3\obj\Debug\net9.0\ref\Exercicio3.dll
+C:\Users\Alunos\Downloads\LPR2026\Aula2\Exercicio3\obj\Debug\net9.0\Exercicio3.sourcelink.json

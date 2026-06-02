@@ -1,0 +1,15 @@
+C:\Users\Alunos\Downloads\LPR2026\Aula4\lernumerointeir\bin\Debug\net9.0\lernumerointeir.exe
+C:\Users\Alunos\Downloads\LPR2026\Aula4\lernumerointeir\bin\Debug\net9.0\lernumerointeir.deps.json
+C:\Users\Alunos\Downloads\LPR2026\Aula4\lernumerointeir\bin\Debug\net9.0\lernumerointeir.runtimeconfig.json
+C:\Users\Alunos\Downloads\LPR2026\Aula4\lernumerointeir\bin\Debug\net9.0\lernumerointeir.dll
+C:\Users\Alunos\Downloads\LPR2026\Aula4\lernumerointeir\bin\Debug\net9.0\lernumerointeir.pdb
+C:\Users\Alunos\Downloads\LPR2026\Aula4\lernumerointeir\obj\Debug\net9.0\lernumerointeir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Downloads\LPR2026\Aula4\lernumerointeir\obj\Debug\net9.0\lernumerointeir.AssemblyInfoInputs.cache
+C:\Users\Alunos\Downloads\LPR2026\Aula4\lernumerointeir\obj\Debug\net9.0\lernumerointeir.AssemblyInfo.cs
+C:\Users\Alunos\Downloads\LPR2026\Aula4\lernumerointeir\obj\Debug\net9.0\lernumerointeir.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Downloads\LPR2026\Aula4\lernumerointeir\obj\Debug\net9.0\lernumerointeir.sourcelink.json
+C:\Users\Alunos\Downloads\LPR2026\Aula4\lernumerointeir\obj\Debug\net9.0\lernumerointeir.dll
+C:\Users\Alunos\Downloads\LPR2026\Aula4\lernumerointeir\obj\Debug\net9.0\refint\lernumerointeir.dll
+C:\Users\Alunos\Downloads\LPR2026\Aula4\lernumerointeir\obj\Debug\net9.0\lernumerointeir.pdb
+C:\Users\Alunos\Downloads\LPR2026\Aula4\lernumerointeir\obj\Debug\net9.0\lernumerointeir.genruntimeconfig.cache
+C:\Users\Alunos\Downloads\LPR2026\Aula4\lernumerointeir\obj\Debug\net9.0\ref\lernumerointeir.dll
