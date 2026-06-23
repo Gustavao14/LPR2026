@@ -6,7 +6,7 @@ using namespace std;
 int main() {
     string algumascidades[4] = {"Vitoria", "Belo Horizonte", "Rio de Janeiro", "Sao Paulo"};
     int distancia [4] [4] = {
-        {0, 524, 521, 882},
+        { 0 , 524, 521, 882},
         {524, 0, 434, 586},
         {521, 434, 0, 429},
         {882, 586, 429, 0}

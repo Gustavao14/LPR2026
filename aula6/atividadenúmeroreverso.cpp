@@ -1,5 +1,5 @@
 #include <iostream>
-
+using namespace std;
 int reverterInteiro(int n) {
     int numreverso = 0;
     
@@ -14,6 +14,6 @@ int reverterInteiro(int n) {
 
 int main() {
     int num = 1234;
-    std::cout << "Original: " << num << " | Reverso: " << reverterInteiro(num);
+    cout << "Original: " << num << " | Reverso: " << reverterInteiro(num);
     return 0;
 }

@@ -22,7 +22,7 @@ class Program
             if(numeros[i] == numeropesquisado)
             {
                     Console.WriteLine($"Encontrei, está na posição (indice): {i}");
-                    ocorrencias;
+                    ocorrencias = 1;
             }
         }
         if (ocorrencias > 0)

@@ -1,7 +1,7 @@
 ﻿using System;
 class ExemploVetor
 {
-    static void Main()
+     void Main()
     {
         int[] numeros = new int [10];
         int pares = 0;
