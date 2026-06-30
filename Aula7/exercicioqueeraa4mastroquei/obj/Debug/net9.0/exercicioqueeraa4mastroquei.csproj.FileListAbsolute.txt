@@ -1,0 +1,15 @@
+C:\Users\Alunos\Downloads\LPR2026\Aula7\exercicioqueeraa4mastroquei\obj\Debug\net9.0\exercicioqueeraa4mastroquei.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Downloads\LPR2026\Aula7\exercicioqueeraa4mastroquei\obj\Debug\net9.0\exercicioqueeraa4mastroquei.AssemblyInfoInputs.cache
+C:\Users\Alunos\Downloads\LPR2026\Aula7\exercicioqueeraa4mastroquei\obj\Debug\net9.0\exercicioqueeraa4mastroquei.AssemblyInfo.cs
+C:\Users\Alunos\Downloads\LPR2026\Aula7\exercicioqueeraa4mastroquei\obj\Debug\net9.0\exercicioqueeraa4mastroquei.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Downloads\LPR2026\Aula7\exercicioqueeraa4mastroquei\obj\Debug\net9.0\exercicioqueeraa4mastroquei.sourcelink.json
+C:\Users\Alunos\Downloads\LPR2026\Aula7\exercicioqueeraa4mastroquei\bin\Debug\net9.0\exercicioqueeraa4mastroquei.exe
+C:\Users\Alunos\Downloads\LPR2026\Aula7\exercicioqueeraa4mastroquei\bin\Debug\net9.0\exercicioqueeraa4mastroquei.deps.json
+C:\Users\Alunos\Downloads\LPR2026\Aula7\exercicioqueeraa4mastroquei\bin\Debug\net9.0\exercicioqueeraa4mastroquei.runtimeconfig.json
+C:\Users\Alunos\Downloads\LPR2026\Aula7\exercicioqueeraa4mastroquei\bin\Debug\net9.0\exercicioqueeraa4mastroquei.dll
+C:\Users\Alunos\Downloads\LPR2026\Aula7\exercicioqueeraa4mastroquei\bin\Debug\net9.0\exercicioqueeraa4mastroquei.pdb
+C:\Users\Alunos\Downloads\LPR2026\Aula7\exercicioqueeraa4mastroquei\obj\Debug\net9.0\exercicioqueeraa4mastroquei.dll
+C:\Users\Alunos\Downloads\LPR2026\Aula7\exercicioqueeraa4mastroquei\obj\Debug\net9.0\refint\exercicioqueeraa4mastroquei.dll
+C:\Users\Alunos\Downloads\LPR2026\Aula7\exercicioqueeraa4mastroquei\obj\Debug\net9.0\exercicioqueeraa4mastroquei.pdb
+C:\Users\Alunos\Downloads\LPR2026\Aula7\exercicioqueeraa4mastroquei\obj\Debug\net9.0\exercicioqueeraa4mastroquei.genruntimeconfig.cache
+C:\Users\Alunos\Downloads\LPR2026\Aula7\exercicioqueeraa4mastroquei\obj\Debug\net9.0\ref\exercicioqueeraa4mastroquei.dll
